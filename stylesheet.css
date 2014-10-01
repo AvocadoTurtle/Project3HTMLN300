@@ -1,0 +1,62 @@
+﻿img{
+ width:400px;
+ height:500px;
+ margin-left:auto;
+ margin-right:auto;
+ display:block;
+}
+
+p{
+ text-align:center;
+ border:medium;
+ font-size: 25px
+}
+
+h1{
+ text-align:center;
+}
+
+h2{
+ text-align:center;
+}
+
+h3{
+ text-align:center;
+}
+
+ul{
+ list-style-type:none;
+ margin:5;
+ padding:1;
+}
+
+a{
+ display:block;
+ width:80px;
+ background: #847777;
+ text-align:center;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+a:link{
+ color: white;
+ text-decoration:none;
+ border:3px white inset;
+}
+
+a:hover{
+ border:3px yellow solid;
+}
+
+#testimony{
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ color:white;
+ text-align:center;
+}
+
+div{
+ margin-left:auto;
+ margin-right:auto;
+ width:47%
+}
